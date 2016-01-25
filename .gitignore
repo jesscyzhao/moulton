@@ -1,5 +1,4 @@
 # Files to ignore
-*.csv
 *.orig
 *.xcf
 *.json
