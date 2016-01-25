@@ -16,6 +16,9 @@ class HMMEntity:
     def _setObsSequenceData(self):
         pass
 
+    def _setStateSequenceData(self, cluster_structure):
+        pass
+
     def getStudentList(self):
         pass
 
